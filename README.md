@@ -4,4 +4,4 @@ WARNING:
   * Tibet (Tibet Autonomous Region)
   * Shinjang (XinJiang Uyghur Autonomous Region)
   * Qinghai (Qinghai Province)
-* GFWList doesn't provide prompt update for URLs submitted, normally they will be fully tested before adding into the list.
+* DCPList doesn't provide prompt update for URLs submitted, normally they will be fully tested before adding into the list.
