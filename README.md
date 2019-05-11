@@ -1,6 +1,7 @@
 ### A list of DNS polluted domain in China
 Tips:
 * DCPList accepts Hosts only.
+
 WARNING:
 * We **WON'T** deal with reports from users of provinces below:
   * Tibet (Tibet Autonomous Region)
