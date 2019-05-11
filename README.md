@@ -1,6 +1,7 @@
 ### A list of DNS polluted domain in China
 Tips:
 * DCPList accepts Hosts only.
+* You can update DCPList via Pulling requests.
 
 WARNING:
 * We **WON'T** deal with reports from users of provinces below:
