@@ -5,4 +5,4 @@ WARNING:
   * Shinjang (XinJiang Uyghur Autonomous Region)
   * Qinghai (Qinghai Province)
 * We **WON'T** deal with reports of **法輪功ファールンゴンFalun Gong**:
-* DCPList doesn't provide prompt update for URLs submitted, normally we will ignore them.
+* DCPList **DOESN'T** provide prompt update for URLs submitted, normally we will ignore them.
